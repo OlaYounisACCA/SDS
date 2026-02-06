@@ -41,26 +41,10 @@ Ensure consistency: "North" vs "north" vs "NORTH" → all become "North"
 
 ## Your Task: Choose Your Tool
 
-### 🐍 Lab 1A: Python (Google Colab)
+### 🐍 Lab 1: Python (Google Colab)
 **Best for:** Technical data science skills  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OlaYounis/SDS-Labs/blob/main/L6-DTI/Lab1/Lab1A_Data_Cleaning.ipynb)
-
-### 📊 Lab 1B: Excel
-**Best for:** Finance professionals  
-
-
-📥 [Download Excel Workbook](https://github.com/OlaYounis/SDS-Labs/raw/main/L6-DTI/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
-
----
----
-
-## What You'll Deliver
-
-✅ Completed notebook/workbook  
-✅ Cleaned dataset (CSV)  
-✅ Summary statistics  
-✅ Documentation of decisions
 
 **Portfolio-ready artifacts to demonstrate practical data skills.**
 
@@ -89,11 +73,3 @@ In finance, you **investigate outliers, not delete them**. Documentation is as i
 
 ---
 
-## Next Steps
-
-After Lab 1, continue to:
-- **Lab 2:** Exploratory Data Analysis
-- **Lab 3:** Data Visualisation
-- **Lab 4:** Basic Automation
-
-**Keep your cleaned dataset—you'll use it in Lab 2!**
